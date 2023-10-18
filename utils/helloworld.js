@@ -1,5 +1,7 @@
-const sayHello=()=>{
-    return "Hello Riley";
+function sayHello() {
+    return "Hello Riley"; 
 }
-console.log(hello);
-export default hello;
+
+console.log(sayHello());
+
+export default sayHello;
